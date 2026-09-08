@@ -35,11 +35,20 @@ body {
 }
 
 .masthead-mark {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-family: var(--mono);
   font-size: 22px;
   font-weight: 600;
   letter-spacing: 0.04em;
   color: var(--text);
+}
+
+.masthead-icon {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
 }
 
 .masthead-sub {
