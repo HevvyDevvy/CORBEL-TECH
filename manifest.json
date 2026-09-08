@@ -1,6 +1,6 @@
 {
-  "name": "Corbel Tech — Digital Products Library",
-  "short_name": "Corbel Tech",
+  "name": "CorbelTech — Digital Products Library",
+  "short_name": "CorbelTech",
   "description": "Corbel Tech: load bearers for the infrastructure you build on. A field library of command references and quick-deploy server packages.",
   "start_url": "./index.html",
   "display": "standalone",
